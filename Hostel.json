@@ -1,0 +1,37 @@
+{
+  "id": "b1582485-461d-43e6-b7b8-3140ff9da3ae",
+  "name": "Hostel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ravindra College of Engineering for Women provides a good hostel facility with well equipped beds and more facilities.",
+            "Yes, We provide Hostel facility.",
+            "RECW has Hostel Facility."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

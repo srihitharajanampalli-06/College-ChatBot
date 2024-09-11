@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5fff8661-4af8-49d9-a44b-b488ef588a14",
+    "data": [
+      {
+        "text": "hostel capacity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eede1dd-c9ef-43e7-88c9-925e2ce7fe70",
+    "data": [
+      {
+        "text": "is there any hostel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09274466-c7b5-4a1c-81f8-91dabb4f2376",
+    "data": [
+      {
+        "text": "do you have hostel facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c9b2162-d1de-4692-8d61-450edf2a4e63",
+    "data": [
+      {
+        "text": "fee for hostel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a931ef2-54e9-4644-8c64-23463c7ca6e7",
+    "data": [
+      {
+        "text": "Hostel fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34f592d9-d83a-44f3-a68c-96b4a2ab1881",
+    "data": [
+      {
+        "text": "Hostel facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

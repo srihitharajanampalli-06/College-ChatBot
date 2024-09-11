@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d3edd3e5-c81b-4dd9-bb2b-1e1867d636a2",
+    "data": [
+      {
+        "text": "phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09e5f9bb-ddd5-4fd6-bafa-43caeeda1825",
+    "data": [
+      {
+        "text": "phone no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73c2fc19-a12d-4e09-bb8d-07cf57dbb764",
+    "data": [
+      {
+        "text": "college contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1d7fc8c-cf91-4e37-b3cc-e79738fa5f80",
+    "data": [
+      {
+        "text": "contact number of college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4f567e3-9fb7-4186-9282-2b6707c21d54",
+    "data": [
+      {
+        "text": "how to contact college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1779be4d-710b-4022-9f2f-6ecf23850412",
+    "data": [
+      {
+        "text": "More info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "f9c60aa3-d80b-488c-bf2e-a3d616bf09d9",
+  "name": "Courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Courses offered in our college are B.Tech - CSE, CSE-AI, CSE-DS, ECE and M.Tech",
+            "We offer B.Tech - CSE, CSE-AI, CSE-DS, ECE and M.Tech",
+            "Recw offers B.Tech - CSE, CSE-AI, CSE-DS, ECE and M.Tech"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

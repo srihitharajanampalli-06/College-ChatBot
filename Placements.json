@@ -1,0 +1,36 @@
+{
+  "id": "f78b20a1-5eb2-477e-81d1-015339c8a700",
+  "name": "Placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our students got placed in \nTCS Digital - 7.5 lpa,\nTCS Ninja - 3.5 lpa\nAccenture - 6.5 lpa\nSpring works - 10 lpa\nADP - 6 lpa\nWalmart - 27 lpa\nand many more...",
+            "Our students secured placement in \nTCS Digital - 7.5 lpa,\nTCS Ninja - 3.5 lpa\nAccenture - 6.5 lpa\nSpring works - 10 lpa\nADP - 6 lpa\nWalmart - 27 lpa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

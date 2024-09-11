@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0e672479-8463-41d0-809f-23bcee745d79",
+    "data": [
+      {
+        "text": "Is there any dress code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82be19b7-a837-48ff-b1dd-520d994f4c71",
+    "data": [
+      {
+        "text": "Dress code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3f69465-7dd8-4539-9766-2d450345dd45",
+    "data": [
+      {
+        "text": "Dress code of the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "761034b5-4045-450f-b8ae-3ee2e65b29a6",
+    "data": [
+      {
+        "text": "What is the college dress code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "018e22ac-a9c9-47ce-9803-8fb3ae98a9b9",
+    "data": [
+      {
+        "text": "Is there any dress code for the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

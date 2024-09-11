@@ -1,0 +1,37 @@
+{
+  "id": "826a5eb0-23b5-40e6-b3bc-5b3319df2ccd",
+  "name": "Timings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "College timings are from 9:30 AM-4:30 PM Monday-Saturday",
+            "College starts at 9:30 AM and ends at 4:30 PM",
+            "Timings are 9:30-4:30"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

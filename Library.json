@@ -1,0 +1,38 @@
+{
+  "id": "2ade79a8-6a5a-4e69-94cf-cfcbde3f24f0",
+  "name": "Library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our college Library is in First Floor",
+            "We have our Library in the First Floor",
+            "Library is located in First Floor",
+            "Yes, we do have a library and it is in the first floor"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

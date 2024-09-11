@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c150123c-1d77-45da-a76f-ae08f0df2f85",
+    "data": [
+      {
+        "text": "Where is your College",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7edb3470-1a6c-42a3-af04-87829131f569",
+    "data": [
+      {
+        "text": "College Address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c556bcde-66d5-49e3-828e-4953e1af5b51",
+    "data": [
+      {
+        "text": "Clg Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6df486bd-d00e-4c19-abcf-214c0ce3fadf",
+    "data": [
+      {
+        "text": "Location of the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937c5b72-d57e-4577-9837-015ab13f3611",
+    "data": [
+      {
+        "text": "Where is the College Located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

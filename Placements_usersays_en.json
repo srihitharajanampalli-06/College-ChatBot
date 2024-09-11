@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0b362339-9e9b-4109-9c23-61815285fa97",
+    "data": [
+      {
+        "text": "College Placements?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e37aaab1-9c52-45d9-9440-12bae1998392",
+    "data": [
+      {
+        "text": "How many students are placed last academic year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf45785-7883-4117-bdea-27b89d710174",
+    "data": [
+      {
+        "text": "Tell me about College Placements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
