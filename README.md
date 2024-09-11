@@ -11,3 +11,5 @@ The College Chatbot uses natural language processing (NLP) capabilities provided
 3.Contextual Awareness: Understands and remembers the context of conversations to provide more relevant responses.
 
 **Sample Conversation flow**
+![Conversation Flow](Conversational-flow1.png)
+![Conversation Flow](Conversational-flow2.png)
